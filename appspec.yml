@@ -1,5 +1,5 @@
-version: 0.0
-os: linux
+version: 2
+os: Amazon Linux
 files:
   - source: ./demo.txt
     destination: /
